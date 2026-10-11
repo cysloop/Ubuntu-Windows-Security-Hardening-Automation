@@ -86,6 +86,6 @@ Review the requested configuration and verify the resulting security settings af
 
 ## Author
 
-** Mohammed Fadhl Al-Moshtaher
+## Mohammed Fadhl Al-Moshtaher
 
 Cybersecurity | Server Hardening | Security Automation
